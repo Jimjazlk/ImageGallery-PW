@@ -1,0 +1,22 @@
+.gallery {
+    background-color:slategrey;
+    padding: 80px 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.gallery img{
+    background-color: #ffffff;
+    padding: 15px;
+    width: 100%;
+    height: 250px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+
+.gallery-modal .modal-img {
+    width: 100%;
+}
